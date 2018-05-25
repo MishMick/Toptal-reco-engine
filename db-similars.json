@@ -1,0 +1,1 @@
+[{"user":"deval","others":[{"user":"mishal","similarity":-0.2}],"id":null},{"user":"mishal","others":[{"user":"deval","similarity":-0.4}],"id":null},{"user":"third","others":[{"user":"deval","similarity":0.3},{"user":"mishal","similarity":-0.1}],"id":null}]
